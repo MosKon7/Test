@@ -12,3 +12,5 @@
 Возникли проблемы с банером и размещением на нем объектов.
 
 Карусель и ее заполнение сделал как зря, только для вида...
+
+https://drive.google.com/drive/u/0/folders/1wAy2niRwoS8Js8utmJmFAbI_0Tbc6PeV

@@ -1,0 +1,28 @@
+/*
+    FONT STYLESHEET
+        PFDinTextCondPro-*.ttf
+*/
+@font-face {
+    font-family: PFDinTextCondPro-Bold; 
+    font-style: normal;
+    font-weight: bold;
+    src: url("./pfdintextcondpro-bold.woff") format("woff"),
+    url("./pfdintextcondpro-bold.woff2") format("woff2"),
+    url("./PFDinTextCondPro-Bold.ttf") format("truetype");
+}
+@font-face{
+    font-family: PFDinTextCondPro-Medium; 
+	font-style: normal;
+	font-weight: normal;
+    src: url("./pfdintextcondpro-medium.woff") format("woff"),
+    url("./pfdintextcondpro-medium.woff2") format("woff2"),
+    url("./PFDinTextCondPro-Medium.ttf") format("truetype");
+}
+@font-face{
+    font-family: PFDinTextCondPro-Regular; 
+	font-style: normal;
+	font-weight: normal;
+    src: url("./pfdintextcondpro-regular.woff") format("woff"),
+    url("./pfdintextcondpro-regular.woff2") format("woff2"),
+    url("./PFDinTextCondPro-Regular.ttf") format("truetype");
+  }
